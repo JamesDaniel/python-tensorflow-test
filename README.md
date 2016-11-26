@@ -4,6 +4,7 @@
 
 - Ubuntu 14
 - 64bit system
+- Python 2.7.6
 
 ## Installation Steps taken
 
