@@ -1,5 +1,12 @@
 # A working repo for tensorflow
 
+## System Requirements
+
+- Ubuntu 14
+- 64bit system
+
+## Installation Steps taken
+
 - sudo apt-get install python-pip python-dev
 - sudo pip install virtualenv
 - virtualenv ./ --no-site-packages
